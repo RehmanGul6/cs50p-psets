@@ -1,7 +1,4 @@
-/
 
-
-Readme · MD
 # CS50P Problem Sets
  
 Solutions to problem sets from [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/).
