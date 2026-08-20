@@ -1,4 +1,4 @@
-hello =  input("Greeting: ").strip().lower()
+hello =  input("Greeting: ").strip.lower()
 
     
 if hello.startswith("hello") :
