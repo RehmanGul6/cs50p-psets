@@ -12,3 +12,4 @@ Each folder corresponds to one lecture's problem set.
 |------|--------|--------|
 | [pset0](./pset0) | Functions, Variables | ✅ Done |
 | [pset1](./pset1) | Conditionals, Match | ✅ Done |
+| [pset2](./pset2) | Loops | ✅ Done |
